@@ -124,7 +124,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -192,3 +191,5 @@ dev-mode/
 CLAUDE.md
 
 pipecat_audit/
+config.bat
+node_modules
