@@ -10,6 +10,9 @@ This example demonstrates how to use the registry cleanup mechanisms
 to prevent memory leaks in long-running applications.
 """
 
+import utils.http_session
+import utils.transport
+import utils.session
 import os
 import time
 
